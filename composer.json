@@ -1,5 +1,5 @@
 {
-  "name": "previewtechs/pdo-simple",
+  "name": "previewtechs/simple-pdo",
   "description": "Simple PDO library for PHP",
   "type": "library",
   "license": "MIT",
