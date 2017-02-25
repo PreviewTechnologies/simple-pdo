@@ -1,0 +1,6 @@
+.idea/*
+.git/*
+
+vendor/*
+coverage.clover
+build/*
